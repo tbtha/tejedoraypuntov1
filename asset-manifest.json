@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tejedoraypuntov1/static/css/main.15a589f7.css",
+    "main.js": "/tejedoraypuntov1/static/js/main.af76086c.js",
+    "static/js/787.99f2a600.chunk.js": "/tejedoraypuntov1/static/js/787.99f2a600.chunk.js",
+    "index.html": "/tejedoraypuntov1/index.html",
+    "main.15a589f7.css.map": "/tejedoraypuntov1/static/css/main.15a589f7.css.map",
+    "main.af76086c.js.map": "/tejedoraypuntov1/static/js/main.af76086c.js.map",
+    "787.99f2a600.chunk.js.map": "/tejedoraypuntov1/static/js/787.99f2a600.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15a589f7.css",
+    "static/js/main.af76086c.js"
+  ]
+}
